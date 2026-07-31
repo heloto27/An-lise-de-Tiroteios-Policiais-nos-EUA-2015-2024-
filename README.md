@@ -1,3 +1,4 @@
+![Dashboard](./assets/IMAGEMDODASHBOARD.png)
 # Análise de Tiroteios Policiais nos EUA (2015–2024)
 
 Projeto de análise de dados construído a partir da base Washington Post Fatal Force Database, que reúne registros de tiroteios fatais envolvendo policiais nos Estados Unidos entre 2015 e 2024. O projeto combina uma camada de análises em SQL com um dashboard interativo em Power BI.
